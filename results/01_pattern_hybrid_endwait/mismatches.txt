@@ -1,0 +1,26 @@
+repro_d3d12_fence_inter-hip_14.log: diag run=44 cv=4499 target=4500 fence=1
+repro_d3d12_fence_inter-hip_14.log: run 44: a=9247 lE=173466407181312 p=478399667041664 match=no stale_by_one=no recheck=yes us/b=147.15
+repro_d3d12_fence_inter-hip_16.log: diag run=6 cv=699 target=700 fence=1
+repro_d3d12_fence_inter-hip_16.log: run 6: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=175.59
+repro_d3d12_fence_inter-hip_22.log: diag run=27 cv=2799 target=2800 fence=1
+repro_d3d12_fence_inter-hip_22.log: run 27: a=9250 lE=173780196802560 p=478125854333952 match=no stale_by_one=no recheck=yes us/b=126.19
+repro_d3d12_fence_inter-hip_31.log: diag run=10 cv=1099 target=1100 fence=1
+repro_d3d12_fence_inter-hip_31.log: run 10: a=9249 lE=173573030993920 p=478475026014208 match=no stale_by_one=no recheck=yes us/b=116.04
+repro_d3d12_fence_inter-hip_4.log: diag run=14 cv=1499 target=1500 fence=1
+repro_d3d12_fence_inter-hip_4.log: run 14: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=122.54
+repro_d3d12_fence_inter-none_1.log: diag run=4 cv=499 target=500 fence=1
+repro_d3d12_fence_inter-none_1.log: run 4: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=165.19
+repro_d3d12_fence_inter-none_1.log: diag run=5 cv=599 target=600 fence=1
+repro_d3d12_fence_inter-none_1.log: run 5: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=137.61
+repro_d3d12_fence_inter-none_1.log: diag run=8 cv=899 target=900 fence=1
+repro_d3d12_fence_inter-none_1.log: run 8: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=134.60
+repro_d3d12_fence_inter-none_12.log: diag run=31 cv=3199 target=3200 fence=1
+repro_d3d12_fence_inter-none_12.log: run 31: a=9250 lE=173790506404864 p=478099533651968 match=no stale_by_one=no recheck=yes us/b=166.94
+repro_d3d12_fence_inter-none_12.log: diag run=36 cv=3699 target=3700 fence=1
+repro_d3d12_fence_inter-none_12.log: run 36: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=135.70
+repro_opaque_win32_inter-hip_47.log: diag run=38 cv=3899 target=3900 fence=1
+repro_opaque_win32_inter-hip_47.log: run 38: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=119.05
+repro_opaque_win32_inter-hip_48.log: diag run=47 cv=4799 target=4800 fence=1
+repro_opaque_win32_inter-hip_48.log: run 47: a=9250 lE=173790506404864 p=478099533651968 match=no stale_by_one=no recheck=yes us/b=121.23
+repro_opaque_win32_inter-hip_6.log: diag run=39 cv=3999 target=4000 fence=1
+repro_opaque_win32_inter-hip_6.log: run 39: a=9256 lE=174827657344000 p=476850019281664 match=no stale_by_one=yes recheck=yes us/b=123.04
